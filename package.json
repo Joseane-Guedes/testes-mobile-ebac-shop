@@ -18,8 +18,14 @@
     "@wdio/local-runner": "^7.11.1",
     "@wdio/mocha-framework": "^7.11.1",
     "@wdio/spec-reporter": "^7.10.1",
-    "allure-commandline": "^2.13.8",
     "appium": "^1.21.0",
-    "wdio-video-reporter": "^3.1.2"
+    "mjpeg-server": "^0.3.1"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.24.0",
+    "mocha": "^10.2.0",
+    "wdio-spec-reporter": "^0.1.5",
+    "wdio-video-reporter": "^4.0.4",
+    "webdriverio": "^8.16.6"
   }
 }
